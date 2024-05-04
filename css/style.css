@@ -5,6 +5,8 @@
 * Browsers: last 4 version
 */
 
+
+
 @font-face {
   font-family: "vazir";
   src: url("../font/Vazir.eot");
@@ -283,7 +285,8 @@ a {
 }
 
 .home-body__socials {
-  opacity: 0;
+  /* opacity: 0; */
+  display: none;
   position: absolute;
   top: 50%;
   -webkit-transform: translateY(-50%);
@@ -784,7 +787,7 @@ a {
   }
 
   .home-body__socials {
-    opacity: 1;
+    display: block;
   }
 
   .home-body__info {
