@@ -1,4 +1,4 @@
-<h2>Personal Website/h2>
+<h2>Personal Website</h2>
 
 <h3>About</h3>
 This is my personal website 
